@@ -4,7 +4,7 @@ nav a{
     margin: 2em;
 }
 
-nav:first-child { /* nav가 여럿인 경우 맨 처음에 오는 nav*/
+nav:first-child { /* nav가 여럿인 경우 맨 처음에 오는 nav */
     display: flex; /* 레이아웃 배치 */
     justify-content: center; /* 어떻게 정렬할지 */
     margin-bottom: 2em;
